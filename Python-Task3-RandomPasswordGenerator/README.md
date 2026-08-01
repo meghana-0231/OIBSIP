@@ -1,5 +1,5 @@
 # Random Password Generator  
-this project is developed as a part of the Oasis Infobyte Python Programming Internship.
+This project is developed as a part of the Oasis Infobyte Python Programming Internship.
 
 ## Features 
 - Generate secure passwords

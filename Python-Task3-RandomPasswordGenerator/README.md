@@ -1,10 +1,25 @@
-# Random Password Generator  
+# Random Password Generator
+
 This project is developed as a part of the Oasis Infobyte Python Programming Internship.
 
-## Features 
+## Features
+
 - Generate secure passwords
 - Choose password length
 - Include uppercase letters
 - Include lowercase letters
 - Include numbers
 - Include symbols
+
+## Technologies Used
+
+- Python
+
+## How to Run
+
+1. Open the project folder.
+2. Run the following command:
+
+```bash
+python password_generator.py
+'''
